@@ -1,3 +1,7 @@
+## EXP-1 
+# NAME:- K ESWANTH KUMAR 
+# REG NO.:- 212223040046
+
 # Led-control-using-Arduino
 
 ## AIM
@@ -59,8 +63,35 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
+![Screenshot (158)](https://github.com/user-attachments/assets/4c069d2a-1a45-426e-9cc1-06dfdb32a4cb)
+
 ## PROGRAM
+```
+int in=2,out=12;
+int bs=0;
+
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(out,OUTPUT);
+  pinMode(in,INPUT);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  bs=digitalRead(in);
+  if(bs==HIGH){
+  digitalWrite(out,HIGH);
+  }
+  else{
+  digitalWrite(out,LOW);
+  }
+}
+```
 
 ## OUTPUT
 
+![Screenshot (157)](https://github.com/user-attachments/assets/ed18c10b-ee8a-40ad-b521-58c83e5d51cb)
+
 ## RESULT
+The program has been executed successfully
+
