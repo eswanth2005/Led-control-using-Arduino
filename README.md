@@ -90,7 +90,7 @@ void loop() {
 
 ## OUTPUT
 
-![Screenshot (157)](https://github.com/user-attachments/assets/ed18c10b-ee8a-40ad-b521-58c83e5d51cb)
+![Screenshot (157)](https://github.com/user-attachments/assets/e94a8ea4-1c76-4149-a739-8932f639db91)
 
 ## RESULT
 The program has been executed successfully
