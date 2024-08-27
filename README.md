@@ -91,7 +91,7 @@ void loop() {
 
 ![Screenshot (157)](https://github.com/user-attachments/assets/f01b5fbd-0bf1-4a4b-86b1-8eefcb9bcf27)
 
-![Screenshot (159)](https://github.com/user-attachments/assets/8516b6df-4912-42ab-8b44-7e855be867e1)
+![Screenshot (159)](https://github.com/user-attachments/assets/e98a5e89-9c97-4608-894d-9165a72b79df)
 
 ## RESULT
 The program has been executed successfully
