@@ -1,7 +1,6 @@
+# EXP 1 Led control using Arduino
 ### NAME:- K ESWANTH KUMAR 
 ### REG NO.:- 212223040046
-
-# EXP 1 Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
